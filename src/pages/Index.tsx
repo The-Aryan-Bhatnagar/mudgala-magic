@@ -1,4 +1,3 @@
-import CountdownTimer from '@/components/CountdownTimer';
 import EmailSignup from '@/components/EmailSignup';
 import FloatingOrbs from '@/components/FloatingOrbs';
 import SocialLinks from '@/components/SocialLinks';
@@ -43,11 +42,6 @@ const Index = () => {
                 Mudgaland Company is crafting an exceptional experience for you. 
                 Stay tuned for something extraordinary.
               </p>
-            </div>
-
-            {/* Countdown */}
-            <div className="animate-fade-up-delayed-2">
-              <CountdownTimer />
             </div>
 
             {/* Email Signup */}
